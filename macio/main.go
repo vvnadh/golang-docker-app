@@ -1,3 +1,6 @@
+// Copyright 2020
+// Author: Venunadh Veeralanka(vvnadh@gmail.com)
+
 package main
 
 import (
