@@ -12,6 +12,7 @@ The program passes APIKEY via HeaderBased Authentication, i.e X-Authentication-T
 Here are the instructions to use this program.
 
 Prequisites:
+
   *) You need to sign into macaddress.io --> API to get the API key for your login.  
      This key you need to pass via cli using -apikey
 
